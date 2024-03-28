@@ -9,7 +9,7 @@ public class Program {
             for(int j = 0; j < 7; j++){
                 System.out.print(col + "" + (j+1) + " ");
             }
-            System.out.println();
+            System.out.println( );
         }
     }
 }
